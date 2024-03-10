@@ -1,0 +1,21 @@
+Project Title: Task Manager
+
+Description:
+Create a simple console-based Task Manager application in Java. The application should allow users to manage 
+their daily tasks efficiently. Users can add tasks, mark them as complete, view the list of tasks, 
+and delete tasks.
+
+Key Features:
+
+	1.	Add Task: Users can add a new task to the list with a title and a brief description.
+	2.	Mark as Complete: Users can mark tasks as complete when they finish them.
+	3.	View Tasks: Display the list of tasks with their status (complete/incomplete).
+	4.	Delete Task: Users can remove tasks from the list.
+	5.	Save and Load: Implement basic file I/O to save tasks to a file and load them when the 
+		application starts.
+
+Additional Challenges:
+
+	•	Implement priority levels for tasks (e.g., High, Medium, Low).
+	•	Add due dates for tasks and notify users if a task is overdue.
+	•	Allow users to categorize tasks into different sections
